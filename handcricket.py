@@ -31,7 +31,6 @@ if score > syscore:
     print(f"YOU WON by {score - syscore} runs")
 else:
     print(f"SYSTEM WON by {syscore-score} runs")
-    print(f"SYSTEM WON by {syscore-score} runs")#System WON
 
 print(f"Your score: {score}")
 print(f"System's score: {syscore}")
